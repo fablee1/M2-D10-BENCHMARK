@@ -180,3 +180,11 @@ body {
 .card {
     height: 100%;
 }
+
+.card i {
+    color: #a1a1a1;
+}
+
+.cards4 img {
+    height:85%;
+}
