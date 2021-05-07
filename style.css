@@ -26,7 +26,6 @@ body {
 .navbar .container {
     height: 52px;
     padding-top: 4px;
-    max-width: 1060px;
 }
 
 .navbar::before {
@@ -172,4 +171,8 @@ body {
 
 .card-img-overlay {
     top: auto;
+}
+
+.navbar i {
+    font-size: 14px;
 }
