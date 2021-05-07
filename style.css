@@ -176,3 +176,7 @@ body {
 .navbar i {
     font-size: 14px;
 }
+
+.card {
+    height: 100%;
+}
